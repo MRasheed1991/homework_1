@@ -16,15 +16,7 @@ to check my ability and what i am capable of.i have made many changes in the pro
 
 
 
-## [screenshot1](assets\screenshot\Screenshot (2).png)
-## [screenshot2](assets\screenshot\Screenshot (3).png)
-## [screenshot3](assets\screenshot\Screenshot (4).png)
-## [screenshot4](assets\screenshot\Screenshot (5).png)
-## [screenshot5](assets\screenshot\Screenshot (6).png)
-## [screenshot6]assets\screenshot\Screenshot (7).png)
+![Screenshot (4)](https://user-images.githubusercontent.com/77942427/109883496-6905c080-7c73-11eb-89a2-d490202f3732.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/77942427/109883512-6dca7480-7c73-11eb-993e-7a0bbc1e24ab.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/77942427/109883517-715dfb80-7c73-11eb-9720-a04dab9b166c.png)
 
-
-## [click here](https://MRasheed1991.github.io/homework_1/)
-=======
-![](screenshots/Screenshot%20(2).png)
->>>>>>> 6800bfa9576c8d6730a4305a006c2330f9ec06a8
