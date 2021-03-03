@@ -1,5 +1,7 @@
 homework_1
+#description
 
+<<<<<<< HEAD
 SEO MARKETING WEBSITE
 This Project was given to make the code developer friendly and the site user friendly.it was good challenging project
 to check my ability and what i am capable of.i have made many changes in the project to fulfill the requirments some of them are as below.i
@@ -23,3 +25,6 @@ to check my ability and what i am capable of.i have made many changes in the pro
 
 
 ## [click here](https://MRasheed1991.github.io/homework_1/)
+=======
+![](screenshots/Screenshot%20(2).png)
+>>>>>>> 6800bfa9576c8d6730a4305a006c2330f9ec06a8
