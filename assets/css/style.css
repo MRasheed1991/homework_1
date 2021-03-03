@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*used content1 class to apply css on the header folder*/
 .content1 {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -102,44 +103,24 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* appllied Same CSS style on multiple elements using Class*/
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-
 }
 
 .content img {
     max-height: 200px;
 }
 
-
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 .footer {
     padding: 30px;
