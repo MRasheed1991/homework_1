@@ -12,4 +12,4 @@ homework_1
 ## [screenshot6]assets\screenshot\Screenshot (7).png)
 
 
-## [click here](file:///C:/Users/cute/coding_bootcamp/homeworks/homework_1/index.html)
+## [click here](https://MRasheed1991.github.io/homework_1/.)
