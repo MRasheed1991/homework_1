@@ -17,9 +17,19 @@ to check my ability and what i am capable of.i have made many changes in the pro
 [] #in the CSS the code was very lenghty because same style were used for multiple element multiple time,i used the CSS combinators to apply the single style on multiple items.
 []made sure that css is matching the html and deleted some extra code which could be avoided by adding some css styles.
 
-![Screenshot (4)](./assets/screenshot/Screenshot_2.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/77942427/109883512-6dca7480-7c73-11eb-993e-7a0bbc1e24ab.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/77942427/109883517-715dfb80-7c73-11eb-9720-a04dab9b166c.png)
+![Screenshot (1)](./assets/screenshot/Screenshot_1.png)
+
+![Screenshot (2)](.\assets\screenshot\Screenshot_2.png)
+
+![Screenshot (3)](./assets/screenshot/Screenshot_3.png)
+
+![Screenshot (4)](./assets/screenshot/Screenshot_4.png)
+
+![Screenshot (5)](./assets/screenshot/Screenshot_5.png)
+
+![Screenshot (6)](./assets/screenshot/Screenshot_6.png)
+
+![Screenshot (7)](./assets/screenshot/Screenshot_7.png)
 
 ## deployed URL
 
